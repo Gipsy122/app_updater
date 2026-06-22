@@ -1,6 +1,6 @@
-        {
-          "versionCode": 3,
-          "apkUrl": "https://github.com/Gipsy122/app_updater/raw/main/future_academy_v2.2.apk",
-          "message": "Testing the update system! You should see a green message after this installs."
-        }
-        
+    {
+      "versionCode": 3,
+      "apkUrl": "https://github.com/Gipsy122/app_updater/raw/main/future_academy_v2.2.apk",
+      "message": "Update fixed! No more loops."
+    }
+    
